@@ -47,7 +47,7 @@ console.log('questo è il risultato', x);
 /* SCRIVI QUI LA TUA RISPOSTA */
 myname = 'armagno';
 const myname2 = 'test';
-// myname2 = 'test';
+// myname2 = 'test123';
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
